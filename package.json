@@ -1,0 +1,26 @@
+{
+  "name": "sprut-partition-async-cycles",
+  "version": "0.0.1-beta.1",
+  "description": "Набор функций для бесконечных и долгих циклов не блокирующих главный поток",
+  "keywords": ["cycle", "each", "async cycle", "infinity cycle"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ValesValesskiy/sprut-partition-async-cycles"
+  },
+  "main": "dist/main.js",
+  "scripts": {
+    "watch": "tsc --declaration -w",
+    "build": "tsc --declaration",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ValesValesskiy",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.1.3"
+  },
+  "files": [
+    "dist/main.ts",
+    "dist/main.d.ts",
+    "readme.md"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "files": [ "main.ts" ],
+  "compilerOptions": {
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "target": "es6",
+    "outDir": "dist",
+    "forceConsistentCasingInFileNames": true,
+    "sourceMap": false
+  },
+  "lib": ["es2015"]
+}
