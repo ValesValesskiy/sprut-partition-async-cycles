@@ -32,7 +32,6 @@
 <br>
 
 ```js
-let i = 0;
 const { stop, pause, contin } = partitionWhile({
   isContinue: i => i <= 1000,
   counter: i => ++i,
