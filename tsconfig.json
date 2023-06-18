@@ -1,7 +1,7 @@
 {
   "files": [ "main.ts" ],
   "compilerOptions": {
-    "module": "commonjs",
+    "module": "UMD",
     "moduleResolution": "node",
     "target": "es6",
     "outDir": "dist",
