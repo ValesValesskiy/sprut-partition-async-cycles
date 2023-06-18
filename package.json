@@ -1,8 +1,13 @@
 {
   "name": "sprut-partition-async-cycles",
-  "version": "0.0.1-beta.2",
+  "version": "0.0.1-beta.3",
   "description": "Набор функций для бесконечных и долгих циклов не блокирующих главный поток",
-  "keywords": ["cycle", "each", "async cycle", "infinity cycle"],
+  "keywords": [
+    "cycle",
+    "each",
+    "async cycle",
+    "infinity cycle"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/ValesValesskiy/sprut-partition-async-cycles"

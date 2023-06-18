@@ -65,7 +65,7 @@ const { stop, pause, contin } = partitionWhile({
 ```js
 const arr = [];
 
-for (let i = 1; i < 1000; i++) {
+for (let i = 1; i <= 1000; i++) {
   arr.push(i);
 }
 
