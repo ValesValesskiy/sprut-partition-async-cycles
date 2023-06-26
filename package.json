@@ -1,6 +1,6 @@
 {
   "name": "sprut-partition-async-cycles",
-  "version": "0.0.1-beta.4",
+  "version": "0.0.1-beta.5",
   "description": "Набор функций для бесконечных и долгих циклов не блокирующих главный поток",
   "keywords": [
     "cycle",
@@ -21,7 +21,7 @@
   },
   "author": "ValesValesskiy",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "typescript": "^5.1.3"
   },
   "files": [
